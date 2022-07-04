@@ -1,1 +1,1 @@
-[![codewars](https://www.codewars.com/users/esmec/badges/large)](https://www.codewars.com/users/esmec) 
+https://www.codewars.com/users/Esmec/badges/large
